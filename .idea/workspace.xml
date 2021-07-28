@@ -22,6 +22,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,7 +33,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627392398165</updated>
-      <workItem from="1627392399426" duration="4501000" />
+      <workItem from="1627392399426" duration="5239000" />
+      <workItem from="1627476863331" duration="2444000" />
+      <workItem from="1627484818419" duration="4063000" />
     </task>
     <servers />
   </component>
